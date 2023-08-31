@@ -42,7 +42,7 @@ const App = () => {
 		return (
 			<main>
 				<div className="title">
-					<h2>No tours left</h2>
+					<h2>no tours left</h2>
 					<button type="button" style={{ marginTop: '2rem' }} className="btn" onClick={fetchTours}>
 						Refresh
 					</button>
